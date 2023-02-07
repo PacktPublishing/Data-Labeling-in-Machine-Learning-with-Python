@@ -1,1 +1,1 @@
-# Data-Labelling-in-Machine-Learning-with-Python
+# Data-Labeling-in-Machine-Learning-with-Python
