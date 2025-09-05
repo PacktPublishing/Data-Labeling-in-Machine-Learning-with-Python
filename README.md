@@ -1,3 +1,6 @@
+
+<b><p align='center'>[![Packt Sale](https://static.packt-cdn.com/assets/images/packt+events/Improve_UX.png)](https://packt.link/algotradingpython)</p></b> 
+
 # Data Labeling in Machine Learning with Python
 
 <a href="https://www.packtpub.com/product/data-labeling-in-machine-learning-with-python/9781804610541"><img src="https://m.media-amazon.com/images/I/71YRZZHDddL._SL1500_.jpg" alt="Data Labeling in Machine Learning with Python" height="256px" align="right"></a>
