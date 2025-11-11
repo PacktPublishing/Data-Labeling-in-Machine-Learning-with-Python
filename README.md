@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.eventbrite.com/e/algorithmic-trading-with-python-cohort-2-tickets-1833367644979?aff=oddtdtcreator'><img src='https://static.packt-cdn.com/assets/images/packt+events/Python_for_Algorithmic Trading_v1.png'/></a></p>
+
 # Data Labeling in Machine Learning with Python
 
 <a href="https://www.packtpub.com/product/data-labeling-in-machine-learning-with-python/9781804610541"><img src="https://m.media-amazon.com/images/I/71YRZZHDddL._SL1500_.jpg" alt="Data Labeling in Machine Learning with Python" height="256px" align="right"></a>
