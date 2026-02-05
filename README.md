@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.eventbrite.com/e/machine-learning-and-generative-ai-system-design-workshop-tickets-1975103644168?aff=Github'><img src='https://static.packt-cdn.com/assets/images/packt+events/Sairam_ML_GenAI_Github_banner.png'/></a></p>
+
 # Data Labeling in Machine Learning with Python
 
 <a href="https://www.packtpub.com/product/data-labeling-in-machine-learning-with-python/9781804610541"><img src="https://m.media-amazon.com/images/I/71YRZZHDddL._SL1500_.jpg" alt="Data Labeling in Machine Learning with Python" height="256px" align="right"></a>
